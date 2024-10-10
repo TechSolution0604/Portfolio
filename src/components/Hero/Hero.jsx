@@ -71,7 +71,7 @@ const Hero = () => {
                     whileTap={
                       shouldReduceMotion ? { scale: 1 } : { scale: 0.97 }
                     }
-                    href='/Nick-Mullenmeister-Resume.pdf'
+                    href='/resume.pdf'
                     target='_blank'
                     rel='noopener noreferrer'
                   >
