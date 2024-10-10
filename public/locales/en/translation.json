@@ -1,0 +1,81 @@
+{
+  "app-title": "Home | Frankie Qiang • Portfolio",
+  "loading": "Loading...",
+  "greetings": "Hi there, I'm ",
+  "name": "Frankie Qiang",
+  "name-end": ".",
+  "sub-heading": "Welcome to my corner of the web.",
+  "more-info": "I have over 3 years of experience in system design, DB design, and test design, and have a deep understanding and track record in these fields. I have over 1 year of experience in backend development using Go, and I am highly skilled. I also have over 3 years of development experience in programming languages ​​such as Python, Go, PHP, and Ruby, and can handle a wide range of technologies. I also have extensive experience in designing APIs and GraphQL. I can handle engineer communication in both English and Japanese, and I have no problem communicating with people in remote meetings or on Slack.",
+  "resume-btn": "resume",
+  "about-heading": "about me",
+  "about-text-top": "Hi! My name is Frankie Qiang and I like building things for the software. Originally from Fujian Province, China. After graduating from the Department of Information Engineering at Putian University in China in 2016, I joined Livemax in Japan. I was involved in the renovation of a rental management system for a major real estate company and the new development of a hotel chain's accommodation reservation system. I was involved in upstream processes from requirements definition to design, development, and testing, gaining perspective and experience on the entire system. In 2018, I moved to Okinawa, where his wife's parents live, and joined my current company mid-career. After getting married, I came into contact with Okinawa's traditional culture and experienced the Japanese value of placing importance on family. I has experience and management skills that transcend phases. After that, I was forced to resign from his previous job due to the global spread of the new coronavirus, and has been working as a freelancer since recovering from his illness.",
+  "about-text-bottom": "",
+  "technology-heading": "technology",
+  "projects-heading": "projects",
+  "featured-tag": "featured project",
+  "projects": [
+    {
+      "id": 1,
+      "description": "With the aim of improving the efficiency of real estate sales and customer response, I was involved in a function expansion project for a system that centrally manages property information and customer information and provides the latest information on a website. I participated from the detailed design stage and played an important role in leading the requirements definition, design, testing, etc."
+    },
+    {
+      "id": 2,
+      "description": "To understand the actual situation at hotels, we visited several hotels and interviewed employees. From the perspective of UI/UX, we understood the actual work flow and aimed to design a system that was easy to use. We also focused on expanding the reservation function of the smartphone app, placing importance on expanding functions to meet customer needs. After the release, we regularly collected feedback and continued to update the system in an effort to maintain and improve customer satisfaction."
+    },
+    {
+      "id": 3,
+      "description": "I optimized remote development to enable smooth collaboration between team members in different locations. Furthermore, I was always mindful of performance and security, and built a system that could withstand large amounts of traffic and unauthorized access. After the release, I was also involved in operational monitoring and maintenance."
+    },
+    {
+      "id": 4,
+      "description": "I visited multiple construction companies and interviewed their employees. I understood user needs, such as how to search for used machinery and desired specifications, and reflected them in the design. I also visualized the existing manual sales flow, identified points for improving work efficiency, and incorporated them into the system requirements."
+    },
+    {
+      "id": 5,
+      "description": "From the start of the project, I clearly defined the target users of the service and focused on designing the service with that persona in mind."
+    },
+    {
+      "id": 6,
+      "description": "I set priorities by clarifying the background of each feature addition, such as the AI ​​chatbot to make up for labor shortages. I also focused on UI/UX design, pursuing simple and intuitive operability. Furthermore, we focused on multilingual support with an eye toward global expansion, and on strengthening security."
+    },
+    {
+      "id": 7,
+      "description": "In this project, the relationship of trust with the user company was beginning to deteriorate from the beginning. Therefore, I acted as a coordinator between the client`s various departments, thoroughly communicating with them and focusing on vendor control, while paying close attention to building relationships. Through this project, I was reminded of the importance of smooth communication with clients and the ability to execute projects."
+    },
+    {
+      "id": 8,
+      "description": "I am building and operating the website [Pet no Jitsuya] that supports the sale of puppies and kittens by reputable breeders. It implements functions such as breeder registration, disclosure of pedigree and health information of puppies and kittens, and matching with potential buyers. In addition, I also provide an intermediary service for genetic testing of dogs and cats, and have developed a system for linking with testing institutions and an online application function for testing."
+    },
+    {
+      "id": 9,
+      "description": "It was a system that required high performance in the sense that it aggregated data from each tenant company and processed it in real time. Initially, performance was poor, and while investigating the cause, it was discovered that there was a problem with the database. A redesign contributed to improving performance."
+    },
+    {
+      "id": 10,
+      "description": "I was involved in the entire process from planning to design and development of Healthengine, a smartphone app that supports health promotion. Its main functions include recording daily activity and food intake, setting goals and checking progress, and health advice using AI. By visualizing data and incorporating gamification elements, I have devised a way to help people develop healthy habits while having fun."
+    }
+  ],
+  "show-more-btn": "show more",
+  "show-less-btn": "show less",
+  "learn-more": "more info",
+  "navigation": [
+    {
+      "menuTitle": "home",
+      "href": "/#home"
+    },
+    {
+      "menuTitle": "about",
+      "href": "/#about"
+    },
+    {
+      "menuTitle": "technology",
+      "href": "/#technology"
+    },
+    {
+      "menuTitle": "projects",
+      "href": "/#projects"
+    }
+  ],
+  "footer-contact": "e-mail",
+  "footer-message": "Website by Frankie Qiang"
+}
