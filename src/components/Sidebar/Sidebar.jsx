@@ -55,7 +55,7 @@ const Sidebar = () => {
             whileHover='visible'
             animate='hidden'
             variants={socialIconVariants}
-            href='mailto:Frankie.Qiang0923@gmail.com'
+            href='mailto:mizuno.rintaro19910604@gmail.com'
             aria-label='Gmail'
             target='_blank'
             rel='noreferrer noopener'

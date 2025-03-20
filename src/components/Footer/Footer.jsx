@@ -48,7 +48,7 @@ const Footer = () => {
             <BoulderSVG />
           </StyledBoulderContainer>
           <StyledContactInfo lang={lang}>
-            <li> {t('footer-contact')}: Frankie.Qiang0923@gmail.com</li>
+            <li> {t('footer-contact')}: mizuno.rintaro19910604@gmail.com</li>
             <li>{t('footer-message')}</li>
           </StyledContactInfo>
         </StyledContactInfoContainer>
