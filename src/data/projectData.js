@@ -45,7 +45,7 @@ export const projectData = [
   },
   {
     id: crypto.randomUUID(),
-    title: 'Matching System',
+    title: 'New development of matching services',
     description:
       'As a backend engineer, where I was responsible for the development of a matching system. In this project, I leveraged cutting-edge technologies such as FastAPI, OpenAI, and Claude 3 to build a system that optimizes the matching of job seekers and companies. I was particularly involved in designing and implementing AI-driven matching algorithms, using data analysis and machine learning models to deliver highly accurate matching functionality. Through this experience, I overcame technical challenges and learned how to maximize system performance.',
     technologies: ['FastAPI', 'OpenAI', 'Langchain', 'Google Cloud Vision', 'AWS Lambda'],
