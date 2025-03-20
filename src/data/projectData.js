@@ -52,7 +52,7 @@ export const projectData = [
     imageUrl: 'rasters/5.png',
     mobileUrl: 'rasters/5.png',
     repository: 'https://github.com/Mully7773/FiberChart',
-    livelink: 'https://luum.co.jp/',
+    livelink: 'https://www.value-press.com/',
   },
   {
     id: crypto.randomUUID(),
