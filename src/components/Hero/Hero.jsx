@@ -19,7 +19,7 @@ import i18n from '../../i18n';
 import { useGlobalContext } from '../../Context/Context';
 
 const Hero = () => {
-  const [language, setLanguage] = useState('en');
+  const [language, setLanguage] = useState('ja');
   const { t } = useTranslation();
   const lang = i18n.resolvedLanguage;
   const { theme } = useGlobalContext();
