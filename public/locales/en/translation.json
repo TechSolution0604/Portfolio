@@ -16,19 +16,19 @@
   "projects": [
     {
       "id": 1,
-      "description": "With the aim of improving the efficiency of real estate sales and customer response, I was involved in a function expansion project for a system that centrally manages property information and customer information and provides the latest information on a website. I participated from the detailed design stage and played an important role in leading the requirements definition, design, testing, etc."
+      "description": "My two years at SENS Co., Ltd. were a period of significant personal and professional growth. In particular, working on the development of the hospital management system allowed me to be involved in a wide range of activities, from requirements definition and basic design to detailed design, development, testing, and implementation. Through this experience, I gained a comprehensive understanding of the entire system development process and deepened my knowledge of the technologies and skills required at each stage. The opportunity to work with new technologies on a daily basis and feel my growth with each challenge was one of the most rewarding aspects of my time there."
     },
     {
       "id": 2,
-      "description": "To understand the actual situation at hotels, we visited several hotels and interviewed employees. From the perspective of UI/UX, we understood the actual work flow and aimed to design a system that was easy to use. We also focused on expanding the reservation function of the smartphone app, placing importance on expanding functions to meet customer needs. After the release, we regularly collected feedback and continued to update the system in an effort to maintain and improve customer satisfaction."
+      "description": "My nearly two years at Dirox Co., Ltd. were an incredibly rewarding experience. As a full-stack engineer, I was primarily involved in the development of a legal management system, focusing on backend development. I gained hands-on experience in designing and implementing the entire system. In particular, working with Go and MongoDB for backend development allowed me to tackle system design based on actual business needs, while also working on optimization and performance improvements. This experience helped me build a deep understanding and technical expertise in backend development."
     },
     {
       "id": 3,
-      "description": "I optimized remote development to enable smooth collaboration between team members in different locations. Furthermore, I was always mindful of performance and security, and built a system that could withstand large amounts of traffic and unauthorized access. After the release, I was also involved in operational monitoring and maintenance."
+      "description": "I joined Sunbytes Co., Ltd. in November 2020 and began working on the development of a hotel management system. As a full-stack engineer, I was responsible for a wide range of tasks, from the basic system design to implementation. In particular, working with Laravel and Vue.js required me to have a comprehensive understanding of both frontend and backend development, which helped me refine my ability to oversee and progress development from an overall perspective. This experience allowed me to gain a deep understanding of the entire development process and acquire the knowledge and skills needed to ensure smooth system development."
     },
     {
       "id": 4,
-      "description": "I visited multiple construction companies and interviewed their employees. I understood user needs, such as how to search for used machinery and desired specifications, and reflected them in the design. I also visualized the existing manual sales flow, identified points for improving work efficiency, and incorporated them into the system requirements."
+      "description": "In June 2022, I joined SCS Solutions Co., Ltd. as a backend engineer and began working on AI development. The use of AI technology was a completely new area for me, but it was an exciting opportunity to engage with cutting-edge technologies, and I made new discoveries every day. In particular, working with OpenAI and Gemini allowed me to gain a deeper understanding of the potential of AI. Through this experience, I learned about AI algorithms and data processing techniques, and I was able to enhance my implementation skills when integrating these technologies into systems."
     },
     {
       "id": 5,
